@@ -1,4 +1,4 @@
-# Trailblaze App
+# Trailblaze App 📱
 
 **Trailblaze App** is part of a personal portfolio. This repository hosts the mobile version of the project, originally inspired by a university prototype.  
 It brings the **territorial planning and management platform** to life as a **modern, mobile-first Flutter application**, enabling users to visualize, register, and manage land parcels with real-time interaction and integrated photos.
