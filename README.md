@@ -1,26 +1,26 @@
 # Trailblaze App
 
-**Trailblaze App** is part of a personal portfolio. This part contains the App version of project, originally inspired by a university prototype.  
-It reimagines the **territorial planning and management platform** experience in a **modern, mobile-first Flutter application**, allowing users to visualize, register, and manage land parcels with real-time interaction and photo integration.
+**Trailblaze App** is part of a personal portfolio. This repository hosts the mobile version of the project, originally inspired by a university prototype.  
+It brings the **territorial planning and management platform** to life as a **modern, mobile-first Flutter application**, enabling users to visualize, register, and manage land parcels with real-time interaction and integrated photos.
 
 ---
 
 ## ✨ Features
 
 - **Interactive Maps**
-  - Visualization of parcels and boundaries using **Google Maps SDK + GeoJSON**
-  - Smooth rendering of large geographic datasets
-  - Search and filter parcels by attributes
+  - Display parcels and boundaries using **Google Maps SDK + GeoJSON**
+  - Smooth rendering of extensive geographic datasets
+  - Filter and search parcels by specific attributes
 
 - **Parcel & Photo Management**
-  - Create, edit, and track land parcels
-  - Attach **single or multiple photos** per parcel
-  - Offline-safe photo upload with error handling
+  - Create, update, and track land parcels
+  - Attach **single or multiple photos** to each parcel
+  - Photos are uploaded directly via the backend API
 
 - **User Access & Roles**
-  - Authentication and secure session control
+  - Secure authentication and session management
   - Role-based permissions (Admin / Operator / Viewer)
-  - Profile data synchronized with backend API
+  - Profile information synchronized with backend API
 
 - **Cross-Platform Support**
   - Built with **Flutter** for Android, iOS, and Web
@@ -63,9 +63,9 @@ flutter build web      # Web
 
 ## 👥 User Roles
 
-- **Admin** – full access to all parcels and system management
+- **Admin** – full access to all parcels and system operations
 - **Operator** – can create, update, and manage parcels and photos
-- **Viewer** – read-only access to geographic data
+- **Viewer** – read-only access to maps and data
 
 ---
 
@@ -80,9 +80,9 @@ flutter build web      # Web
 
 ---
 
-## 🧠 Project Goals
+## 🧠 Project Highlights
 
-This project showcases my work in:
+This project demonstrates skills in:
   - **Cross-platform mobile development** (Flutter)
   - **Map-based application design**
   - **Asynchronous data handling and image processing**
@@ -92,5 +92,4 @@ This project showcases my work in:
 
 ## 📝 License / Notice
 
-This repository reflects a **university coursework project**.  
-Code is published for **portfolio purposes**; reuse may be restricted if no explicit license is defined.
+This repository originates from a university coursework project. It is published for portfolio purposes, and reuse may be limited if no explicit license is specified.
