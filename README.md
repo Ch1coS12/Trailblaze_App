@@ -1,7 +1,7 @@
 # Trailblaze App
 
 **Trailblaze App** is part of a personal portfolio. This part contains the App version of project, originally inspired by a university prototype.  
-It reimagines the **territorial management platform** experience in a **modern, mobile-first Flutter application**, allowing users to visualize, register, and manage land parcels with real-time interaction and photo integration.
+It reimagines the **territorial planning and management platform** experience in a **modern, mobile-first Flutter application**, allowing users to visualize, register, and manage land parcels with real-time interaction and photo integration.
 
 ---
 
